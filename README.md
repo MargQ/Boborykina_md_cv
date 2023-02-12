@@ -19,7 +19,7 @@
 
 Тема проекта: нереляционная база данных
 
-[ссылка на проект] (https://pastebin.com/zn86gm5B)
+ссылка на проект: https://pastebin.com/zn86gm5B
 
 
 ***
@@ -27,4 +27,5 @@
 **Контакты**
 
 E-mail: rit.200214@gmail.com
-[Telegram] (t.me/Lontrel28)
+
+[Telegram](t.me/Lontrel28)
